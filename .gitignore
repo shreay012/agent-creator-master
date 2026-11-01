@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+data/
+outputs/
+trader/
+*.sqlite*
+vendor/**/reports/
+node_modules/
+work/
+memory/
+*.pre-v03-*
+
+*.pre-v06-*
